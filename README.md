@@ -15,4 +15,4 @@ My blog: https://purrgramming.life/
 ♪ Blog Slogan:  More visualisation, more tables, more code examples 
 
  
-<img src="https://cdn-icons-png.flaticon.com/512/2890/2890315.png" width="20"   />
+<img src="https://cdn-icons-png.flaticon.com/512/2890/2890315.png" width="200"   />
