@@ -8,5 +8,7 @@ I am Victoria Pinzhen Liao
 
 ♪ Aim to be a purrfect and purrfessional front desk purrgrammer
 
+
 My blog: https://purrgramming.life/
+
 ♪ Blog Slogan:  More visualisation, more tables, more code examples 
